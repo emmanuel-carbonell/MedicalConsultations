@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MvcMovie.Models;
+using MedicalConsultations.Models;
 
-namespace MvcMovie.Controllers
+namespace MedicalConsultations.Controllers
 {
     public class HomeController : Controller
     {

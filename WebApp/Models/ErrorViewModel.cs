@@ -1,6 +1,7 @@
 using System;
 
-namespace MvcMovie.Models
+
+namespace MedicalConsultations.Models
 {
     public class ErrorViewModel
     {
